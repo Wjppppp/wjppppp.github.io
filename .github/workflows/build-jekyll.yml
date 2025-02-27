@@ -11,6 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      # Initialize /etc/ if missing
+      - name: Initialize /etc/
+        run: |
+          sudo mkdir -p /etc/
+
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v2
         with:
