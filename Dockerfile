@@ -6,6 +6,8 @@ WORKDIR /app
 # COPY Gemfile.lock .
 COPY . .
 
+RUN chmod -R 777 .
+
 RUN touch Gemfile.lock
 RUN chmod a+w Gemfile.lock
 

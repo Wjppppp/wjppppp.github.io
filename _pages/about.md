@@ -5,19 +5,18 @@ layout: page
 comments: false
 ---
 
-about me
-
 ## Research Interests
 
 - Remote Sensing
 - 3D/4D Point Cloud
-- Spatial Temporal Data Science
+- Spatiotemporal Data Science
 - GeoAI
 
 ## Education
 
-
-
+- 2024 - now, Doctoral student, Remote Sensing Applications, TU Munich
+- 2021.10 - 2023.09, M\.Sc\. in Cartography, TU Munich, TU Vienna, TU Dresden, UTwente
+- 2017.09 - 2021.06, B.Eng. in Remote Sensing Science and Technology, Wuhan University
 
 **may u needs ✨**
 
